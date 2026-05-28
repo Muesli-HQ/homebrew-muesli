@@ -1,11 +1,11 @@
 # homebrew-muesli
 
-Personal Homebrew tap for [Muesli](https://github.com/pHequals7/muesli).
+Homebrew tap for [Muesli](https://github.com/Muesli-HQ/muesli).
 
 ## Install
 
 ```bash
-brew tap pHequals7/muesli
+brew tap Muesli-HQ/muesli
 brew install --cask muesli
 ```
 
@@ -24,5 +24,5 @@ brew uninstall --cask muesli
 
 ## Notes
 
-- Releases are served from the official GitHub Releases page for `pHequals7/muesli`.
+- Releases are served from the official GitHub Releases page for `Muesli-HQ/muesli`.
 - Muesli currently supports Apple Silicon Macs running macOS 14.2 or newer.

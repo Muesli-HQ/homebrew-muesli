@@ -2,11 +2,11 @@ cask "muesli" do
   version "0.6.9"
   sha256 "fc7b0a0f2486f77171e855cfc20f10af764577de8caaa448623005e939c419a6"
 
-  url "https://github.com/pHequals7/muesli/releases/download/v#{version}/Muesli-#{version}.dmg",
-      verified: "github.com/pHequals7/muesli/"
+  url "https://github.com/Muesli-HQ/muesli/releases/download/v#{version}/Muesli-#{version}.dmg",
+      verified: "github.com/Muesli-HQ/muesli/"
   name "Muesli"
   desc "Local-first dictation and meeting transcription"
-  homepage "https://freedspeech.xyz/"
+  homepage "https://muesli.works/"
 
   livecheck do
     url :url
